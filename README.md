@@ -27,3 +27,4 @@ Your test is to fork this project in stackblitz(you may need to sign in for doin
 
 On completing the code the application should behave in this way.
 
+![](app-final-preview.gif)
