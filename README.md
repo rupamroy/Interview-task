@@ -2,7 +2,7 @@
 This is for testing angular skills
 
 We are going to use stackblitz online code editor for this task. Goto the following link in chrome 
-https://stackblitz.com/edit/angular-interview-sample
+https://stackblitz.com/edit/angular-interview-sample-unsolved
 
 This is your workspace where you will complete the project as per the instruction below.
 
